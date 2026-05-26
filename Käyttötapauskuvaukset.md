@@ -1,4 +1,4 @@
-#Äänestysten katselu
+# Äänestysten katselu
 Käyttäjät: Äänestäjä <br />
 Laukaisija: Kiinnostus äänestyksistä <br />
 Esiehto: On sivulla <br />
@@ -10,7 +10,7 @@ Käyttötapauksen kulku:
 
 Poikkeuksellinen toiminta: -
 
-#Äänestyksissä äänestäminen
+# Äänestyksissä äänestäminen
 Käyttäjät: Äänestäjä <br />
 Laukaisija: Äänestäjä haluaa äännestää <br />
 Esiehto: Äänestäjä on kirjautunut sovellukseen <br />
